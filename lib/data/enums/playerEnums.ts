@@ -30,6 +30,9 @@ export enum PlayerSkin {
   Miner = 13,
   Winter = 14,
   Archae = 15,
+  Prisoner = 16,
+  CCC = 17,
+  rhm = 18,
 }
 
 export enum PlayerHat {
@@ -127,6 +130,27 @@ export enum PlayerHat {
   NinjaMask = 91,
   RamHorns = 92,
   Snowman_2 = 93,
+  Geoff = 94,
+  DaveHat = 95,
+  Ellie = 96,
+  SwenHat = 97,
+  BurtHat = 98,
+  EllryHat = 99,
+  Monocles = 100,
+  WizardHat = 101,
+  CheeseToppat = 102,
+  MacbethHat = 103,
+  HenryToppat = 104,
+  EllieToppat = 105,
+  GeoffreyToppat = 106,
+  Angery = 107,
+  Chocolate = 108,
+  Heart = 109,
+  Ponytail = 110,
+  Rubberglove = 111,
+  Unicorn = 112,
+  Zipper = 113,
+  RHM = 114,
 }
 
 export enum PlayerPet {
