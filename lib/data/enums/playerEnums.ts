@@ -165,6 +165,7 @@ export enum PlayerPet {
   Ellie = 8,
   Squig = 9,
   Bedcrab = 10,
+  test = 11,
 }
 
 export enum SkeldVents {
